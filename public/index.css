@@ -47,7 +47,7 @@ body {
   display: inline-block;
   grid-column: auto;
   grid-auto-rows: auto;
-  background: aqua;
+  background: rgb(13, 216, 216);
   margin: 10px;
   width: 100px;
   height: 100px;
